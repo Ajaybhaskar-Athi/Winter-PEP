@@ -12,6 +12,8 @@ int search(vector<int>& arr, int n, int target) {
 }
 
 
+//All Are disticnt Elements
+
 //Binary Search =O(nlogn)
 /*
 As the Array is Rotated Try to find which part is sorted by comparing mid with low & high.

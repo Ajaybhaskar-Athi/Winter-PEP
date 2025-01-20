@@ -1,16 +1,38 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 
-int main(){
-    int n;
-    cin>>n;
-    string ans="";
-    for(int i=0;i<n;i++){
-        int a;
-        cin>>a;
-        if(a==1)ans="HARD";
+
+void insertAtBottom(stack<int>&stk,int ele){
+    if(stk.empty() || ele<=stk.top()){
+        stk.push(ele);
+        return;
     }
-    if(ans=="")cout<<"EASY";
-    else cout<<ans;
+    int top=stk.top();
+    stk.pop();
+    insertAtBottom(stk,ele);
+    stk.push(top);
+}
+
+void sortStack(stack<int>&stk){
+    // helper(stk,stk.top());    
+    if(stk.empty())return ;
+    int top=stk.top();
+    stk.pop();
+    sortStack(stk);
+    insertAtBottom(stk,top);
+
+}
+
+int main(){
+    stack<int>stk;
+    stk.push(1);
+    stk.push(5);
+    stk.push(2);
+    stk.push(4);
+    sortStack(stk);
+    while(!stk.empty()){
+        cout<<stk.top()<<" ";
+        stk.pop();
+    }
 }

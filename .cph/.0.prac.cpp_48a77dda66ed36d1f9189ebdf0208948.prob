@@ -1,1 +1,1 @@
-{"name":"Local: 0","url":"d:\\LPU\\VScode\\C Programming\\PEP_CP\\0.prac.cpp","tests":[{"id":1737271809569,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\LPU\\VScode\\C Programming\\PEP_CP\\0.prac.cpp","group":"local","local":true}
+{"name":"Local: 0","url":"d:\\LPU\\VScode\\C Programming\\PEP_CP\\0.prac.cpp","tests":[{"id":1737271809569,"input":"100","output":"470199269"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\LPU\\VScode\\C Programming\\PEP_CP\\0.prac.cpp","group":"local","local":true}

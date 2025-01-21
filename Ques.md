@@ -41,3 +41,12 @@
 - 26. Sort the Array using Recursion (solve leet code one too)
 - 27. Pow(a,n)
 - 28. Friends Pairing Problem
+
+<!-- Day 5: 21/01/2025 -->
+
+- 29. Matrix Exponential
+- 30. calculates the number of ways to completely fill a 4×n matrix using 4×1 and 1 X4 matrices.
+- 31.  Binary Strings Without Consecutive 1's
+- 32. Print All Binary Strings Without Consecutive 1's
+- 33. Binary strings of n and prefix should have more 0's then 1's
+- 34. climbing stairs

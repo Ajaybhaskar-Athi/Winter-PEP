@@ -1,4 +1,7 @@
-
+<!-- Day 1 -->
+# Theory 
+-  Space complexity : space used other then input and output variables
+- Time complexity: 
 
 <!-- day2 --> 
 # Sliding Window
@@ -9,6 +12,7 @@
 - 9. Contains Duplicate II (leet code 219)
 - 10. (leet code 395) Longest Substring with At Least K Repeating Characters 
 - 11. Maximum Length of Repeated Sub Array 
+- 11.p1 Sliding Sub Array Beauty
 # Kadane's Algorithm
 - 12.  max sum sub array (kadanes Algo-current Max store)
 - 13. maximum product sub array
@@ -44,9 +48,24 @@
 
 <!-- Day 5: 21/01/2025 -->
 
-- 29. Matrix Exponential
+- 29.1 Matrix Exponential
+- 29.2 Fibonacci
 - 30. calculates the number of ways to completely fill a 4×n matrix using 4×1 and 1 X4 matrices.
 - 31.  Binary Strings Without Consecutive 1's
 - 32. Print All Binary Strings Without Consecutive 1's
 - 33. Binary strings of n and prefix should have more 0's then 1's
 - 34. climbing stairs
+- 35. Letter Combinations of a Phone Number
+- 36. generate Subsets (if we generate using bit manipulation then its POWER SET)
+- 37. subset sum equals target 
+
+-  . Balance Parentheses
+
+
+<!-- Day 6: 23/01/2025 -->
+
+- 38. max subset  length of target sum
+- 39. return vector that has max subset  length of target sum
+- 40. Knapsack problem
+
+

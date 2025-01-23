@@ -1,7 +1,39 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//o(log n)
+
+/*
+
+Iterative/Dynamic Programming: O(n)
+Compute Fibonacci numbers iteratively or using a bottom-up DP approach.
+
+Matrix Exponentiation: O(logn)
+Uses matrix multiplication to compute Fibonacci numbers efficiently.
+
+Recursive (Naive): O(2^n)
+Highly inefficient due to repeated calculations.
+*/
+//DP
+/*
+
+// Method 2: DP memoriization (Top-down dp)
+// TC=O(n) and sc=O(n) ;2
+class Solution {
+public:
+    int fibb(int n,vector<int>&dp) {
+        if(n<=1)return n;
+    if(dp[n]!=-1)return dp[n];
+return dp[n]=fibb(n-1,dp)+fibb(n-2,dp);  
+  }
+};
+*/
+
+
+
+//MATRIX MULTIPLICATION
+
+
+//o(log n) : powerFull then DP fibonacci (O(n))
 
 
 vector<vector<int>> getIdentityMat(int sz){

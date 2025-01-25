@@ -65,7 +65,24 @@
 <!-- Day 6: 23/01/2025 -->
 
 - 38. max subset  length of target sum
-- 39. return vector that has max subset  length of target sum
-- 40. Knapsack problem
+- 39. return vector that has max subset  length of target sum //Best Sum
+- 40. Unbounded Knapsack problem  (Knapsack with Duplicate Items)
+- 41. 0/1 Knapsack (bounded knapsack)
+- 42. partition array into two subsets that has equal sum
+- 43.     
+
+ Rod cutting problem
+
+ <!-- Day 7 25/01/2025 -->
+
+- 44. longest common subsequence
+- 45. Printing LCS
+- 46.  Printing Longest common substring  
+- 47.  longest palindromic subsequence 
+- 48. min Insertions to make a string palindrome
+min Insertions to make a string palindrome
+
+ minimum operations needed to make two strings equal 
+- 
 
 

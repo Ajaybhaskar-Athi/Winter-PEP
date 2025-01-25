@@ -1,0 +1,1 @@
+{"name":"Local: 45  Printing LCS","url":"d:\\LPU\\VScode\\C Programming\\PEP_CP\\45  Printing LCS.cpp","tests":[{"id":1737812062363,"input":"abcde\nbdegk","output":"bde"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\LPU\\VScode\\C Programming\\PEP_CP\\45  Printing LCS.cpp","group":"local","local":true}

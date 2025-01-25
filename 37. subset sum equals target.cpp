@@ -51,7 +51,21 @@ bool subsetSumToK(int n, int k, vector<int> &v)
     // Write your code here.
     vector<vector<bool>> dp(n + 1, vector<bool>(k + 1, false));
     for (int i=n-1;i>=0;i--){
-        // for()
     }
-        // return helper(0, k, v, dp);
+}
+
+
+class Solution{
+    public:
+    bool helper(int k,vector<int>&nums){
+            int n=nums.size();
+            if(k==0)return true;
+            if(k<0) return false;
+
+            
+    }
+    bool subsetSumEqualsK(int k,vector<int>&arr){
+        int n = arr.size();
+        return helper(k,arr);
+    }
 }

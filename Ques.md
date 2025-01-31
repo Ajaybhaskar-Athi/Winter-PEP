@@ -80,9 +80,40 @@
 - 46.  Printing Longest common substring  
 - 47.  longest palindromic subsequence 
 - 48. min Insertions to make a string palindrome
-min Insertions to make a string palindrome
-
- minimum operations needed to make two strings equal 
+- 49.  minimum operations needed to make two strings equal 
 - 
 
+<!-- Day 8: 27/01/2025 -->
 
+
+- 50. Edit Distance 
+- 51.1 Longest Increasing Subsequence
+- 51.2 Maximum Sum Increasing Subsequence
+- 52. Longest Bitonic Subsequence : a subsequnce that strictly increase and then strictly Decrease
+- 53. Interleaving String
+
+
+<!-- Day 9: 28/01/2025  PARTITON DP --> 
+- 54. Matrix Chain Multiplication
+- 55. Palindrome partitioning 
+- 56. Palindrome Partitioning II 
+
+Longest Repeating Subsequence
+
+
+<!-- Day 10:  -->
+- 57.  sorting   ( Bubble Sort,Insertion sort,Selection sort,Merge sort,Quick Sort,Bucket sort,count sort , cyclic sort,)
+- 58 Sort Colours
+- 59.1 Count sort
+- 59.2 sort the string lexicographly
+- 60. Merge sort
+- 61. Quick Sort
+- 62. Count inversion pairs
+- 63. find median of 2 sorted arrays in O(log(n+m)) time complexity
+Kth largest element in an unsorted array in O(n)
+
+
+<!-- Day 11 31/01/2025 -->
+
+- 70. DFS of Tree
+- 71.  total number of nodes in its subtree,including itself
